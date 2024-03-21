@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Galaga\\Galaga_USFX\\Source\\Galaga_USFX\\Galaga_USFX.Build.cs",
+		"F:\\Galaga\\Galaga_USFX\\Source\\Galaga_USFX.Target.cs",
+		"F:\\Galaga\\Galaga_USFX\\Source\\Galaga_USFXEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
